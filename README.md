@@ -7,6 +7,6 @@ Basile: output of predictions
 Bjørn:
 
 Meetings:
-Friday 13:00
+Friday 13:00 outside of Biocenter, back entrance
 Sunday ?
 
