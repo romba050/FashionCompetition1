@@ -67,4 +67,9 @@ pred = knn.predict(X_test_flat)
 f1=f1_score(y_test, pred, average='micro')
 print("f1 ",f1)
 
-tru=mlb.inverse_transform(pred)
+# calc avg f1? or pooled
+
+tru_te=mlb.inverse_transform(pred)
+tru_tr=mlb.inverse_transform(y_train)
+
+print(pred)
