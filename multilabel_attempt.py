@@ -30,12 +30,12 @@ for i in range(1,201):
     labels = np.array(list(map(int,labels)))
     y_train.append(labels)
 y_train = np.array(y_train)
+
 all_labels=[]
 for i in range(1,229):
     all_labels.append([i])
 mlb.fit(all_labels) # fitting multilabelbinarizer to all labels
 y_train=mlb.transform(y_train)
-
 
 #print('smallest vertical:',min(i.shape[0] for i in X_train))
 #print('smallest horizontal:',min(i.shape[1] for i in X_train))
