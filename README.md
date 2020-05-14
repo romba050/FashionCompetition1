@@ -1,9 +1,9 @@
-### Kaggle Competition
+# Kaggle Competition
 
 ### LSDA Brainstorm, aspects to improve:
 
 # read-in
-reading in data fatser with different function
+reading in data faster with different function
 selecting data pints at random
 
 # preprocessing:
