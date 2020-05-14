@@ -1,6 +1,10 @@
 # Kaggle Competition
+Decide between:
+* [Furniture Competition](https://www.kaggle.com/c/imaterialist-challenge-furniture-2018#Timeline)
+* [Fashion Competition](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018#)
 
 ### LSDA Brainstorm, aspects to improve:
+/
 
 # read-in
 reading in data faster with different function
